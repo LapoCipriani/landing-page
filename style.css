@@ -95,3 +95,8 @@ button {
 .right-button button {
     border: 1px solid white;
 }
+
+.rectangle {
+    height: 120px;
+    width: 75%;
+}
