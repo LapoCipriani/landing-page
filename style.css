@@ -134,4 +134,10 @@ button {
 
 .first {
     display: flex;
+    /*gap: 30px;    */ /* it moves the image to the right */
+    justify-content: space-between;
+}
+
+.first-left, .first-right {
+    width: 48%;
 }
