@@ -121,3 +121,6 @@ button {
     align-items: center;
 }
 
+.items {
+    display: flex;
+}
