@@ -110,7 +110,7 @@ button {
     border: 1px solid white;
 }
 
-.rectangle {
+.rectangle, .header, .first {
     height: auto;
     width: 75%;
 }
