@@ -54,3 +54,13 @@ button, .rectangle {
     color: #1f2937;
     font-weight: 900;
 }
+
+.quote {
+    background-color: #e5e7eb;
+}
+
+.quote .quote-text {
+    font-size: 36px;
+    color: #1f2937;
+    font-weight: 300;
+}
