@@ -25,6 +25,8 @@ body {
 }
 .header .links ul {
     list-style-type: none;
+    display: flex;
+    gap: 20px;
 }
 
 .header .links ul li a {
