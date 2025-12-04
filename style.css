@@ -92,8 +92,8 @@ button, .hero .first .image {
 
 .hero .first .image {
     background-color: gray;
-    width: 500px;
-    height: 230px;
+    width: 100%;
+    height: 100%;
 }
 
 .call, .footer {
@@ -130,4 +130,8 @@ button {
 .header {
     display: flex;
     justify-content: space-between;
+}
+
+.first {
+    display: flex;
 }
