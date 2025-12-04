@@ -80,5 +80,12 @@ button, .hero .first .image {
 
 .first-left button {
     border: none;
+}
+
+button {
     padding: 1px 15px;
+}
+
+.right-button button {
+    border: 1px solid white;
 }
