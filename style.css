@@ -148,3 +148,13 @@ button {
 .first-left, .first-right {
     width: 48%;
 }
+
+.item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.item p {
+    text-align: center;
+}
