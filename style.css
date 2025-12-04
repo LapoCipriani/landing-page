@@ -19,7 +19,7 @@ body {
     color: #e5e7eb;
 }
 
-.hero {
+.hero, .footer {
     background-color: #1f2937;
 }
 
