@@ -8,6 +8,8 @@
 
 body {
     font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 .header .links ul {
     list-style-type: none;
