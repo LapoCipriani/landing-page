@@ -64,3 +64,11 @@ button, .rectangle {
     color: #1f2937;
     font-weight: 300;
 }
+
+button, .hero .first .image {
+    color: white;
+}
+
+.hero .first .image {
+    background-color: gray;
+}
