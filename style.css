@@ -47,6 +47,7 @@ body {
 
 button, .rectangle {
     background-color: #3882f6;
+    border-radius: 5px;
 }
 
 .info h2 {
