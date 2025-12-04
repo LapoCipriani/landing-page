@@ -9,7 +9,13 @@
 body {
     font-family: 'Roboto', sans-serif;
     display: flex;
-    flex-direction: column;
+    background-color: black;
+    justify-content: center;
+}
+
+.container {
+    width: 80%;
+    background-color: white;
 }
 .header .links ul {
     list-style-type: none;
