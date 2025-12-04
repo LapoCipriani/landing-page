@@ -36,3 +36,9 @@ body {
 .item {
     border: 3px solid red;
 }
+
+.hero .first h1 {
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 900;
+}
