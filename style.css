@@ -131,12 +131,15 @@ button {
 .header {
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    padding-top: 15px;
 }
 
 .first {
     display: flex;
     /*gap: 30px;    */ /* it moves the image to the right */
     justify-content: space-between;
+    padding: 100px 0;
 }
 
 .first-left, .first-right {
