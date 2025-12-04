@@ -16,6 +16,12 @@ body {
 .container {
     width: 80%;
     background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.footer, .hero, .info, .call {
+    width: 100%;
 }
 .header .links ul {
     list-style-type: none;
@@ -105,6 +111,6 @@ button {
 }
 
 .rectangle {
-    height: 120px;
+    height: auto;
     width: 75%;
 }
