@@ -72,3 +72,7 @@ button, .hero .first .image {
 .hero .first .image {
     background-color: gray;
 }
+
+.call, .footer {
+    color: white;
+}
