@@ -47,7 +47,7 @@ body {
 
 button, .rectangle {
     background-color: #3882f6;
-    border-radius: 5px;
+    border-radius: 4px;
 }
 
 .info h2 {
@@ -76,4 +76,9 @@ button, .hero .first .image {
 
 .call, .footer {
     color: white;
+}
+
+.first-left button {
+    border: none;
+    padding: 1px 15px;
 }
