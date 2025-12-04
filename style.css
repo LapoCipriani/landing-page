@@ -54,7 +54,7 @@ body {
 }
 
 .item {
-    border: 3px solid red;
+    /*border: 3px solid red;*/
     width: 160px;
     height: auto;
 }
@@ -129,6 +129,7 @@ button {
 
 .items {
     display: flex;
+    gap: 20px;
 }
 
 .header {
@@ -153,6 +154,7 @@ button {
     display: flex;
     flex-direction: column;
     align-items: center;
+    gap: 5px;
 }
 
 .item p {
