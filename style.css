@@ -178,3 +178,10 @@ button {
     justify-self: flex-end;
     margin-right: 50px;
 }
+
+.call {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 80px 0;
+}
