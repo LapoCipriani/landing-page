@@ -188,7 +188,7 @@ button {
 
 .rectangle {
     display: flex;
-    padding: 30px 50px;
+    padding: 30px 80px;
     justify-content: space-between;
 }
 
