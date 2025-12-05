@@ -174,3 +174,8 @@ button {
     align-items: center;
     justify-content: center;
 }
+
+.author {
+    align-self: flex-end;
+    margin-bottom: 80px;
+}
