@@ -162,3 +162,15 @@ button {
 .item p {
     text-align: center;
 }
+
+.quote-text {
+    width: 70%;
+    margin-top: 100px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
